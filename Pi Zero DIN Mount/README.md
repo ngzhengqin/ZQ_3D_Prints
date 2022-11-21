@@ -3,6 +3,8 @@ I designed this adapter to attach my Raspberry Pi Zero 2 W to a metal DIN rail c
 
 I printed the parts without supports using ABS, but PETG might work too.
 
+"Like" my model on [Printables](https://www.printables.com/model/321853-pi-zero-metal-din-clamp-adapter/files).
+
 ![Pi Zero 2 W](https://github.com/ngzhengqin/ZQ_3D_Prints/blob/a1a97650d68e2a93f5a72b8bccc287beb814b2f8/Pi%20Zero%20DIN%20Mount/Images/IMG_0514.jpg)
 
 # BOM
