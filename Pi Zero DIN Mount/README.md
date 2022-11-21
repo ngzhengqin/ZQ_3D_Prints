@@ -1,4 +1,4 @@
-# Introduction
+# Description
 I designed this adapter to attach my Raspberry Pi Zero 2 W to a metal DIN rail clamp. These clamps are meant for solid state relays (SSR) and can be bought from [AliExpress](https://a.aliexpress.com/_mPAzuSc) for less than a dollar.
 
 I printed the parts without supports using ABS, but PETG might work too.
